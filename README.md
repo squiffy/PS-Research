@@ -1,3 +1,4 @@
-PSHD Analysis Tools
+Pier Solar Research
 ====================
-Not much to see here yet.
+* tools/ contains tools for analyzing Pier Solar
+
